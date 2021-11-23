@@ -7,7 +7,6 @@ First of all, thank you so much for taking your time to contribute! Central Dogm
 - Ask a question by creating a new issue in [the issue tracker](https://github.com/line/centraldogma/issues).
   - Browse [the list of previously answered questions](https://github.com/line/centraldogma/issues?q=label%3Aquestion-answered).
 - Contribute your work by sending [a pull request](https://github.com/line/centraldogma/pulls).
-
 ### Build requirements
 
 - [OpenJDK 13 (or later)](https://adoptopenjdk.net/)
