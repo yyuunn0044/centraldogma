@@ -14,7 +14,7 @@ We use [Gradle](https://gradle.org/) to build Central Dogma. The following comma
 $ ./gradlew build
 ```
 
-## How to ask a question
+## How to ask a questio
 
 Just [create a new issue](https://github.com/line/centraldogma/issues/new) to ask a question, and browse [the list of previously answered questions](https://github.com/line/centraldogma/issues?q=label%3Aquestion-answered).
 
